@@ -3,6 +3,9 @@ NodeBB SSO Steam v2
 
 ** THIS VERSION IS NOT BACKWARD COMPATIBLE **
 
+**Modifications Made:**
+* Updated Async & Passport-Steam dependency versions
+
 **v2 Updates:**
 * Fixed deleting a steam linked account throwing the user into an invalid session loop
 * Fixed being able to accidentally link two steam accounts to your profile
