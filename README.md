@@ -1,4 +1,4 @@
-# nodebb-plugin-sso-steam-v2
+# nodebb-plugin-sso-steam-v2-definitive
 NodeBB SSO Steam v2
 
 ** THIS VERSION IS NOT BACKWARD COMPATIBLE **
