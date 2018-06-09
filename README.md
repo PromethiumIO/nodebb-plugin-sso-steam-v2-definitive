@@ -5,6 +5,7 @@ NodeBB SSO Steam v2
 
 **Modifications Made:**
 * Updated Async & Passport-Steam dependency versions
+* NodeBB v1.9.0+ required
 
 **v2 Updates:**
 * Fixed deleting a steam linked account throwing the user into an invalid session loop
